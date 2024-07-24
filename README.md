@@ -109,7 +109,7 @@ Aquí está la transcripción del texto de las imágenes en formato Markdown:
 
 ---
 
-# EPAM Culture
+#  Culture
 
 ## 4 Pillars
 - Develop Yourself
@@ -117,14 +117,14 @@ Aquí está la transcripción del texto de las imágenes en formato Markdown:
 - Committed Partners
 - Problem Solvers
 
-## EPAM Values
+##  Values
 - Value the individual
 - Focus on the customer
 - Act as a team
 - Strive for excellence
 - Act with integrity
 
-## How to Grow with EPAM
+## How to Grow with 
 - **Learn**
 - **Level up**
 - **Grow**
